@@ -6,4 +6,6 @@ Seq2Seq (Sequence to Sequence)는 문장을 문장으로 번역하는 데 사용
 
 <img src="https://github.com/mathdoyun/Seq2Seq/assets/135238974/03803e27-9afb-485d-a96f-310e31ae4737" width="75%" height="75%"/>
 
+Seq2Seq 모델과 attention mechanism을 이용하여 영한 번역기를 만드는 코드를 작성하며 실습해보았다.
+
 > 출처: 텐초의 파이토치 딥러닝 특강
